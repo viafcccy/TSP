@@ -5,3 +5,4 @@
 其中main（SA）
     main（ACA）为蚁群和遗传
 而GA和其他函数为遗传算法
+all_tsp为测试数据文件
